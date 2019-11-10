@@ -1,0 +1,4 @@
+Subject:Software Engineering
+sem: 5th
+CBCS
+BSC
